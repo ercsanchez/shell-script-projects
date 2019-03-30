@@ -25,4 +25,4 @@ clean:
 
 # command is an action that make carries out
 # make -p to get a list of implicit variable defined by make
-# RM means rm-f
+# RM means rm -f

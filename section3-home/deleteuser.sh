@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# delete created users to start over
+
 # show users in local system
 cut -d: -f1 /etc/passwd
 
